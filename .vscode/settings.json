@@ -1,0 +1,11 @@
+{
+    "pgsql.connections": [
+
+        {
+            "server": "{{localhost}}",
+            "database": "{{postgres}}",
+            "user": "{{andrew}}",
+            "password": "{{andrew}}"
+        }
+    ]
+}

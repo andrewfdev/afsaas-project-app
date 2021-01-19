@@ -38,6 +38,8 @@ gem 'twitter-bootstrap-rails'
 
 gem 'devise-bootstrap-views', '~> 1.0'
 
+gem 'bootstrap-datepicker-rails'
+
 gem 'jquery-rails'
 
 group :development, :test do
